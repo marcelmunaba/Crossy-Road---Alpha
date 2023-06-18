@@ -5,11 +5,11 @@ A simple Crossy Road game using Pygame! Many thanks to the UDEMY Course teaching
 
 Installation : 
 
-Make sure pygame is installed - See official documentation of pygame on installing pygame.
+1. Make sure pygame is installed - See official documentation of pygame on installing pygame.
 
-Create a new Folder to install the game (ex. 'Crossy Road') in your desired directory.
+2. Create a new Folder to install the game (ex. 'Crossy Road') in your desired directory.
 
-Run the python file locally.
+3. Run the python file locally.
 
 *Ignore the error message when exiting the game.
 
